@@ -78,6 +78,3 @@ Dataset can be downloaded from [here](https://www.kaggle.com/momohmustapha/donor
 
 - And the Accuracy of the Random Forest is more, so it is efficient among all.
 
-
-**Name :**
-- Akash Ramanand Rajak
